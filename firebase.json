@@ -12,5 +12,16 @@
         "destination": "/index.html"
       }
     ]
+  },
+  "apphosting": {
+    "backendId": "pokerzero-3",
+    "rootDir": "MarceloGomesFollow/pokezero3",
+    "ignore": [
+      "node_modules",
+      ".git",
+      "firebase-debug.log",
+      "firebase-debug.*.log",
+      "functions"
+    ]
   }
 }
