@@ -1,0 +1,18 @@
+{
+  "short_name": "PokerZero3 FC",
+  "name": "PokerZero3 Futebol Clube: Texas Hold'em",
+  "description": "Uma simulação completa de poker Texas Hold'em com um tema de futebol. Jogue contra uma IA aprimorada, gerencie suas fichas em rodadas de apostas (Pré-Flop, Flop, Turn, River) e mostre que você é o campeão da mesa!",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0OCIgZmlsbD0iIzFkYjU1MyIgc3Ryb2tlPSIjZmFjYzE1IiBzdHJva2Utd2lkdGg9IjQiLz48dGV4dCB4PSI1MCUiIHk9IjUzJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlBvcHBpbnMsIHNhbnMtc2VyaWYiIGZvbnQtd2lkdGg9IjkwMCIgZm9udC1zaXplPSI1MCIgZmlsbD0id2hpdGUiIHN0cm9rZT0iIzEwMTAxMCIgc3Ryb2tlLXdpZHRoPSIxIj5QWh08L3RleHQ+PC9zdmc+",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#15803d",
+  "background_color": "#111827"
+}

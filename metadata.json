@@ -1,0 +1,8 @@
+{
+  "name": "PokerZero3 Futebol Clube",
+  "description": "Uma simulação completa de poker Texas Hold'em com um tema de futebol. Jogue contra uma IA aprimorada, gerencie suas fichas em rodadas de apostas (Pré-Flop, Flop, Turn, River) e mostre que você é o campeão da mesa!",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
